@@ -41,5 +41,5 @@ matplotlib.pyplot
 #### [Datasets](https://www.kaggle.com/airbnb/seattle/data)
 
 ### Results:
-You Can Find them [Here]()
+You Can Find them [Here](https://mohanaad-abalkhail.medium.com/seattle-airbnb-listings-story-c2d2f707218d)
 
