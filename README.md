@@ -19,7 +19,27 @@ Airbnb is a community-based online platform for listing and renting local homes.
 
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
 
-### Some Questions that i will try to answer in this dataset:
+### Project Motivation
+For this project, I was interestested in using Seattle AirBNB Data to better understand:
 - What are the busiest times of the year to visit Seattle?
 - Is there a busy season?
 - Do some neighborhood have more listings than other? and dose it effect reviews?and what is average price per night?
+
+### Libraries
+I use Python3. Here are the libraries I used in my Jupyter Notebook:
+
+Numpy
+Pandas
+Seaborn
+matplotlib.pyplot
+
+### We have three datasets.
+
+- listings: including full descriptions and average review score.
+- calendar: including listing id and the price and availability for that day.
+- reviews: including unique id for each reviewer and detailed comments.
+#### [Datasets](https://www.kaggle.com/airbnb/seattle/data)
+
+### Results:
+You Can Find them [Here]()
+
